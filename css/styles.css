@@ -126,7 +126,6 @@ h2{
 
 /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 30px #a9e9a4;
   border: 2px solid black;
   border-radius: 0;
 }
@@ -136,7 +135,7 @@ h2{
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid black;
   overflow: hidden;
 
 }
